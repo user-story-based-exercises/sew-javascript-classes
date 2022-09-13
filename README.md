@@ -10,9 +10,9 @@ SEW | ADV | JavaScript Classes
  - add() to add the arguments to this and return this
  - toString() returns the complex number as string in the format re+im i
 - The constructor function and the add method interpret their arguments according to the amount of arguments given, i.e.:
- - no argument -> number is 0
- - one argument -> (real) number or complex object
- - two arguments -> real and imaginary part
+-- no argument -> number is 0
+-- one argument -> (real) number or complex object
+-- two arguments -> real and imaginary part
 - A number of different test cases is provided
 
 #### Links
