@@ -16,5 +16,6 @@ SEW | ADV | JavaScript Classes
 - A number of different test cases is provided
 
 #### Links
+- https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Classes_in_JavaScript
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object
 - https://my.skilldisplay.eu/en/skillset/594
