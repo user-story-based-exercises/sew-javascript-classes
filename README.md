@@ -13,7 +13,9 @@ SEW | ADV | JavaScript Classes
   - no argument -> number is 0
   - one argument -> (real) number or complex object
   - two arguments -> real and imaginary part
-- A number of different test cases is provided
+- A number of different test cases is provided.
+
+*Hint*: JavaScript allows [default parameters](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters?retiredLocale=de).
 
 #### Links
 - https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Classes_in_JavaScript
