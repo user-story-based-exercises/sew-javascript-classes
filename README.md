@@ -1,5 +1,3 @@
-SEW | ADV | JavaScript Classes
-
 ## User Story 1
 *As a skilled mathematician I want to develop a class for working with complex numbers, so that I can use it in my daily work.*
 
@@ -17,7 +15,5 @@ SEW | ADV | JavaScript Classes
 
 *Hint*: JavaScript allows [default parameters](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters?retiredLocale=de).
 
-#### Links
-- https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Classes_in_JavaScript
-- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object
-- https://my.skilldisplay.eu/en/skillset/594
+#### Skill(s)
+- [JavaScript Classes](https://my.skilldisplay.eu/en/skill/1839/0)
