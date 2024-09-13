@@ -6,8 +6,8 @@
 - A complex number has a real part and an imaginary part.
 - The real and imaginary part can only be accessed by the corresponding getter/setter from outside the class. 
 - A complex number has two methods:
- - add() to add the arguments to this and return this
- - toString() returns the complex number as string in the format re+im i (Beispiele: 2+5i, -1+2i, -3-4i, 2+i)
+  - add() to add the arguments to this and return this
+  - toString() returns the complex number as string in the format re+im i (Beispiele: 2+5i, -1+2i, -3-4i, 2+i)
 - The constructor function and the add method interpret their arguments according to the amount of arguments given, i.e.:
   - no argument -> number is 0
   - one argument -> (real) number or complex object
